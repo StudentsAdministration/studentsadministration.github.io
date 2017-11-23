@@ -4,4 +4,4 @@ Fork or clone this repository, change the name to TheNameOfYourOrganization.gith
 
 https://TheNameOfYourOrganization.github.io 
 
-The only file you need to edit is index.html
+Edit the content in [index.html]()
