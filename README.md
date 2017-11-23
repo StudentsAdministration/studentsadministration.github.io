@@ -4,4 +4,4 @@ Fork or clone this repository, change the name to TheNameOfYourOrganization.gith
 
 https://TheNameOfYourOrganization.github.io 
 
-Edit the content in [index.html]()
+Edit the content in [index.html](https://github.com/StudentsAdministration/studentsadministration.github.io/blob/master/index.html)
